@@ -19,11 +19,11 @@ git clone  https://github.com/sunNode/excel-to-json
 
 ## Usage
 ```bash
- `git clone https://github.com/rahil471/excel-to-json-in-Node.js.git` 
+ git clone https://github.com/rahil471/excel-to-json-in-Node.js.git
  ```
  
  ```bash
-`cd excel-to-json-in-Node.js` 
+cd excel-to-json-in-Node.js 
 ```
 
 ```bash
@@ -35,5 +35,5 @@ npm start
 ```
 
 ```bash
-browser `http://localhost:3000`
+browser http://localhost:3000
 ```
