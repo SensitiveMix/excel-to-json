@@ -14,7 +14,7 @@ http://code.ciphertrick.com/2016/06/05/read-excel-files-convert-json-node-js/
 
 ## GET START
 ```bash
-git clone  https://github.com/sunNode/excel-to-json
+git clone  https://github.com/SensitiveMix/excel-to-json
 ```
 
 ## Usage
